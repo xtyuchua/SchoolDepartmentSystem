@@ -23,7 +23,7 @@ The application allows:
 
 ---
 
-## 🏫 System Actors
+##  System Actors
 
 The system consists of the following entities:
 
@@ -117,12 +117,12 @@ Build → Rebuild Project
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Christy Uchua**
 
 ---
 
-## 📄 License
+##  License
 
 This project is created for educational purposes as part of an Object-Oriented Programming coursework assignment.
